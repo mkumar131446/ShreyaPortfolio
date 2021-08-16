@@ -1,0 +1,19 @@
+body, html {
+  height: 100%;
+  line-height:normal;
+}
+.bg-main{
+  // https://ik.imagekit.io/houseofcoders/wp-content/uploads/2017/10/portfolio-background.png
+  // https://i.pinimg.com/736x/87/78/7f/87787f7ebc359cf6dfefb9596a8ae7e2.jpg
+  background-image: url(https://ik.imagekit.io/houseofcoders/wp-content/uploads/2017/10/portfolio-background.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 100%;
+}
+h1,h2,h3,h4,h5,h6{
+  color: #61bf7e;
+}
+p{
+  color: white;
+}

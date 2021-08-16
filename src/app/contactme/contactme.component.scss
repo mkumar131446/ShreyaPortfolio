@@ -1,0 +1,20 @@
+p{
+  font-size: 22px;
+}
+// img{
+//   height: 5%;
+//   width: 5%;
+// }
+.card{
+  background-color: #fff0;
+  border: none;
+}
+img{
+  height: 70px;
+  width: 70px;
+}
+img:hover{
+    box-shadow: 4px 19px 20px 3px rgb(35 32 32 / 0.9);
+    transition: 0.3s;
+}
+
